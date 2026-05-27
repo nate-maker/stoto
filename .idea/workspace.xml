@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ee14b57-daec-44ae-87b9-67b5611ffd8f" name="Changes" comment="" />
+    <list default="true" id="7ee14b57-daec-44ae-87b9-67b5611ffd8f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Fetene\\WebstormProjects\\1\\11\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -57,6 +60,10 @@
       <updated>1778324231489</updated>
       <workItem from="1778324232602" duration="2830000" />
       <workItem from="1778394993778" duration="1253000" />
+      <workItem from="1778766421596" duration="222000" />
+      <workItem from="1778766727081" duration="9000" />
+      <workItem from="1778936489628" duration="3370000" />
+      <workItem from="1779374967381" duration="611000" />
     </task>
     <servers />
   </component>
